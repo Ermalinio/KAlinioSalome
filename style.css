@@ -33,6 +33,20 @@ rickroll {
   left: 1100px;
 }
 
+icon {
+  float:left;
+  width: 675px;
+  height: 300px;
+  padding: 10px;
+  position: absolute;
+  top: 55px;
+  left: 360px;
+  }
+
+icon a:hover {
+  background-color: #3a3b3c;
+  }
+
 index-box:nth-of-type(1) {
   float:left;
   width: 500px;
