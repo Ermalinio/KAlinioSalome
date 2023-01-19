@@ -243,3 +243,9 @@ div table:nth-of-type(6) {
         left: 110px;
         top: 1912px;
       }
+
+div table:hover {
+  transition: 2s;
+  scale: 120%;
+  z-index: 10;
+}
