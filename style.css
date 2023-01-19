@@ -198,6 +198,16 @@ agent-box:nth-of-type(11) {
   top: 1608px;
 }
 
+agent-box:nth-of-type(12) {
+  text-align: center;
+  border: 2px outset;
+  width: 815px;
+  height: 266px;
+  position: absolute;
+  left: 100px;
+  top: 1904px;
+}
+
 div table:nth-of-type(1) {
         position: absolute;
         left: 590px;
@@ -226,4 +236,10 @@ div table:nth-of-type(5) {
         position: absolute;
         left: 110px;
         top: 1616px;
+      }
+
+div table:nth-of-type(6) {
+        position: absolute;
+        left: 110px;
+        top: 1912px;
       }
